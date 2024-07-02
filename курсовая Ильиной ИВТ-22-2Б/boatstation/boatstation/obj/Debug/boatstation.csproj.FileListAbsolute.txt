@@ -1,0 +1,17 @@
+C:\Users\Кристина\source\repos\boatstation\boatstation\bin\Debug\boatstation.exe.config
+C:\Users\Кристина\source\repos\boatstation\boatstation\bin\Debug\boatstation.exe
+C:\Users\Кристина\source\repos\boatstation\boatstation\bin\Debug\boatstation.pdb
+C:\Users\Кристина\source\repos\boatstation\boatstation\obj\Debug\boatstation.csproj.AssemblyReference.cache
+C:\Users\Кристина\source\repos\boatstation\boatstation\obj\Debug\boatstation.Form1.resources
+C:\Users\Кристина\source\repos\boatstation\boatstation\obj\Debug\boatstation.Properties.Resources.resources
+C:\Users\Кристина\source\repos\boatstation\boatstation\obj\Debug\boatstation.csproj.GenerateResource.cache
+C:\Users\Кристина\source\repos\boatstation\boatstation\obj\Debug\boatstation.csproj.CoreCompileInputs.cache
+C:\Users\Кристина\source\repos\boatstation\boatstation\obj\Debug\boatstation.exe
+C:\Users\Кристина\source\repos\boatstation\boatstation\obj\Debug\boatstation.pdb
+C:\Users\Кристина\source\repos\boatstation\boatstation\bin\Debug\MySql.Data.dll
+C:\Users\Кристина\source\repos\boatstation\boatstation\bin\Debug\System.Memory.dll
+C:\Users\Кристина\source\repos\boatstation\boatstation\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Кристина\source\repos\boatstation\boatstation\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Кристина\source\repos\boatstation\boatstation\bin\Debug\System.Buffers.dll
+C:\Users\Кристина\source\repos\boatstation\boatstation\bin\Debug\MySql.Data.xml
+C:\Users\Кристина\source\repos\boatstation\boatstation\obj\Debug\boatstat.B9694742.Up2Date
