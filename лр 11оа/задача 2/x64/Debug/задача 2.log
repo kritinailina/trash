@@ -1,0 +1,5 @@
+﻿  Money.cpp
+  task2_main.cpp
+C:\Users\Кристина\source\repos\лр 11 оа\задача 2\task2_main.cpp(27,8): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Создание кода...
+  задача 2.vcxproj -> C:\Users\Кристина\source\repos\лр 11 оа\x64\Debug\задача 2.exe
