@@ -1,0 +1,4 @@
+﻿  lab2_main.cpp
+C:\Users\Кристина\source\repos\лр 2 оа\лр 2 оа\lab2_main.cpp(17,15): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Кристина\source\repos\лр 2 оа\лр 2 оа\lab2_main.cpp(26,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  лр 2 оа.vcxproj -> C:\Users\Кристина\source\repos\лр 2 оа\x64\Debug\лр 2 оа.exe

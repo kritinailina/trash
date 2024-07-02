@@ -1,0 +1,5 @@
+﻿  Money.cpp
+  lab3_main.cpp
+C:\Users\Кристина\source\repos\лр 3 оа\лр 3 оа\lab3_main.cpp(5,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  Создание кода...
+  лр 3 оа.vcxproj -> C:\Users\Кристина\source\repos\лр 3 оа\x64\Debug\лр 3 оа.exe
