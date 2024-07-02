@@ -1,0 +1,6 @@
+﻿  fraction.cpp
+  lab1_main.cpp
+C:\Users\Кристина\source\repos\лр1 оа в2\лр1 оа в2\lab1_main.cpp(7,9): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Кристина\source\repos\лр1 оа в2\лр1 оа в2\lab1_main.cpp(12,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  Создание кода...
+  лр1 оа в2.vcxproj -> C:\Users\Кристина\source\repos\лр1 оа в2\x64\Debug\лр1 оа в2.exe
