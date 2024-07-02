@@ -1,0 +1,15 @@
+﻿  Money.cpp
+  task3_main.cpp
+C:\Users\Кристина\source\repos\лр 11 оа\задача 3\Vector.h(40,14): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Кристина\source\repos\лр 11 оа\задача 3\Vector.h(33,1): message : во время компиляции функции-члена класс шаблон "Vector<Money>::Vector(int)"
+C:\Users\Кристина\source\repos\лр 11 оа\задача 3\task3_main.cpp(7,18): message : см. первую ссылку на "Vector<Money>::Vector" в "main"
+C:\Users\Кристина\source\repos\лр 11 оа\задача 3\task3_main.cpp(7,15): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "Vector<Money>"
+C:\Users\Кристина\source\repos\лр 11 оа\задача 3\Vector.h(55,8): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Кристина\source\repos\лр 11 оа\задача 3\Vector.h(51,1): message : во время компиляции функции-члена класс шаблон "T Vector<T>::avarage(void)"
+          with
+          [
+              T=Money
+          ]
+C:\Users\Кристина\source\repos\лр 11 оа\задача 3\task3_main.cpp(14,13): message : см. первую ссылку на "Vector<Money>::avarage" в "main"
+  Создание кода...
+  задача 3.vcxproj -> C:\Users\Кристина\source\repos\лр 11 оа\x64\Debug\задача 3.exe

@@ -1,0 +1,4 @@
+﻿  task4_main.cpp
+C:\Users\Кристина\source\repos\лр 11 оа\задача 4\task4_main.cpp(55,8): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Кристина\source\repos\лр 11 оа\задача 4\task4_main.cpp(112,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  задача 4.vcxproj -> C:\Users\Кристина\source\repos\лр 11 оа\x64\Debug\задача 4.exe
