@@ -1,0 +1,3 @@
+﻿  lab12_main.cpp
+C:\Users\Кристина\source\repos\лр 12 оа\лр 12 оа\lab12_main.cpp(38,8): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  лр 12 оа.vcxproj -> C:\Users\Кристина\source\repos\лр 12 оа\x64\Debug\лр 12 оа.exe

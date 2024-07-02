@@ -1,0 +1,24 @@
+﻿  task3_main.cpp
+C:\Users\Кристина\source\repos\лр 12 оа\task3\Vector.h(69,29): error C3878: синтаксическая ошибка: непредвиденный маркер "идентификатор" после "expression"
+C:\Users\Кристина\source\repos\лр 12 оа\task3\Vector.h(69,29): message : пропущено восстановление ошибки: "идентификатор = идентификатор  . . . ("
+C:\Users\Кристина\source\repos\лр 12 оа\task3\Vector.h(69,41): error C2760: синтаксическая ошибка: непредвиденный элемент ")". Ожидается ";"
+C:\Users\Кристина\source\repos\лр 12 оа\task3\Vector.h(69,41): error C3878: синтаксическая ошибка: непредвиденный маркер ")" после "expression_statement"
+C:\Users\Кристина\source\repos\лр 12 оа\task3\Vector.h(69,41): message : пропущено восстановление ошибки: ")"
+C:\Users\Кристина\source\repos\лр 12 оа\task3\Vector.h(69,2): error C7510: "iterator": при использовании зависимого имени тип необходимо указать префикс "имя типа"
+C:\Users\Кристина\source\repos\лр 12 оа\task3\Vector.h(94,24): error C3878: синтаксическая ошибка: непредвиденный маркер "идентификатор" после "expression"
+C:\Users\Кристина\source\repos\лр 12 оа\task3\Vector.h(94,24): message : пропущено восстановление ошибки: "идентификатор = идентификатор  . . . ("
+C:\Users\Кристина\source\repos\лр 12 оа\task3\Vector.h(94,36): error C2760: синтаксическая ошибка: непредвиденный элемент ")". Ожидается ";"
+C:\Users\Кристина\source\repos\лр 12 оа\task3\Vector.h(94,36): error C3878: синтаксическая ошибка: непредвиденный маркер ")" после "expression_statement"
+C:\Users\Кристина\source\repos\лр 12 оа\task3\Vector.h(94,36): message : пропущено восстановление ошибки: ")"
+C:\Users\Кристина\source\repos\лр 12 оа\task3\Vector.h(94,2): error C7510: "iterator": при использовании зависимого имени тип необходимо указать префикс "имя типа"
+C:\Users\Кристина\source\repos\лр 12 оа\task3\Vector.h(96,2): error C2065: Time: необъявленный идентификатор
+C:\Users\Кристина\source\repos\лр 12 оа\task3\Vector.h(96,7): error C3878: синтаксическая ошибка: непредвиденный маркер "идентификатор" после "expression"
+C:\Users\Кристина\source\repos\лр 12 оа\task3\Vector.h(96,7): message : пропущено восстановление ошибки: "идентификатор = (  . . . идентификатор"
+C:\Users\Кристина\source\repos\лр 12 оа\task3\Vector.h(96,14): error C2760: синтаксическая ошибка: непредвиденный элемент ")". Ожидается ";"
+C:\Users\Кристина\source\repos\лр 12 оа\task3\Vector.h(96,14): error C3878: синтаксическая ошибка: непредвиденный маркер ")" после "expression_statement"
+C:\Users\Кристина\source\repos\лр 12 оа\task3\Vector.h(96,14): message : пропущено восстановление ошибки: ") ."
+C:\Users\Кристина\source\repos\лр 12 оа\task3\Vector.h(96,16): error C2065: second: необъявленный идентификатор
+C:\Users\Кристина\source\repos\лр 12 оа\task3\Vector.h(101,8): error C2065: m: необъявленный идентификатор
+C:\Users\Кристина\source\repos\лр 12 оа\task3\Vector.h(103,5): error C2065: m: необъявленный идентификатор
+C:\Users\Кристина\source\repos\лр 12 оа\task3\task3_main.cpp(12,4): error C2039: "delete_map": не является членом "Vector<std::multimap<int,Money,std::less<int>,std::allocator<std::pair<const int,Money>>>>".
+C:\Users\Кристина\source\repos\лр 12 оа\task3\task3_main.cpp(9,2): message : см. объявление "Vector<std::multimap<int,Money,std::less<int>,std::allocator<std::pair<const int,Money>>>>"

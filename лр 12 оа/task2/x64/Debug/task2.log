@@ -1,0 +1,3 @@
+﻿  task2_main.cpp
+C:\Users\Кристина\source\repos\лр 12 оа\task2\task2_main.cpp(39,8): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  task2.vcxproj -> C:\Users\Кристина\source\repos\лр 12 оа\x64\Debug\task2.exe
