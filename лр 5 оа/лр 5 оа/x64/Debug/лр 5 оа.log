@@ -1,0 +1,5 @@
+﻿  lab5_main.cpp
+C:\Users\Кристина\source\repos\лр 5 оа\лр 5 оа\lab5_main.cpp(9,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  Vector.cpp
+  Создание кода...
+  лр 5 оа.vcxproj -> C:\Users\Кристина\source\repos\лр 5 оа\x64\Debug\лр 5 оа.exe

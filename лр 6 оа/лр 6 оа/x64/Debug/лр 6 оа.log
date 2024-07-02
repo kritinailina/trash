@@ -1,0 +1,3 @@
+﻿  lab6_main.cpp
+C:\Users\Кристина\source\repos\лр 6 оа\лр 6 оа\lab6_main.cpp(5,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  лр 6 оа.vcxproj -> C:\Users\Кристина\source\repos\лр 6 оа\x64\Debug\лр 6 оа.exe

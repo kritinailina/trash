@@ -1,0 +1,3 @@
+﻿  lab7_main.cpp
+C:\Users\Кристина\source\repos\лр 7 оа\лр 7 оа\Array.h(65): warning C4715: Array<Money>::operator[]: значение возвращается не при всех путях выполнения
+  лр 7 оа.vcxproj -> C:\Users\Кристина\source\repos\лр 7 оа\x64\Debug\лр 7 оа.exe
