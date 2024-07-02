@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Dialog">
+    <Position X="8.5" Y="0.5" Width="1.5" />
+    <InheritanceLine Type="List">
+      <InheritanceModifierLabel ManuallyPlaced="true">
+        <Position X="-3.715" Y="0.485" />
+      </InheritanceModifierLabel>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAAAAQAAAAQAAAAAAAAAAAAEAAADCACCAA=</HashCode>
+      <FileName>Dialog.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Magazin">
+    <Position X="6.5" Y="4" Width="2.25" />
+    <InheritanceLine Type="Print">
+      <InheritanceModifierLabel ManuallyPlaced="true">
+        <Position X="-7.482" Y="2.627" />
+      </InheritanceModifierLabel>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAIAACEAAEAAAAAAEgAAAAAAA=</HashCode>
+      <FileName>Magazin.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Object">
+    <Position X="4.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAAAgAAAQAAAAEAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Object.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Print">
+    <Position X="4.25" Y="2.75" Width="2" />
+    <InheritanceLine Type="Object">
+      <InheritanceModifierLabel ManuallyPlaced="true">
+        <Position X="-9.215" Y="-0.048" />
+      </InheritanceModifierLabel>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAAAAACAAAQAIAAEAAEAQAIgAAgAAAEAAA=</HashCode>
+      <FileName>Print.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="List">
+    <Position X="6.75" Y="0.5" Width="1.5" />
+    <InheritanceLine Type="Object">
+      <InheritanceModifierLabel ManuallyPlaced="true">
+        <Position X="-7.015" Y="-0.373" />
+      </InheritanceModifierLabel>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAIAAAAEAAAAAACAkIAQAgAAAAAEAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>List.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="TEvent">
+    <Position X="9" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Event.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

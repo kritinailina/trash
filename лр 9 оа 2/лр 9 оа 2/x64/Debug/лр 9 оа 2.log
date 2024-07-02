@@ -1,0 +1,4 @@
+﻿  Array.cpp
+C:\Users\Кристина\source\repos\лр 9 оа 2\лр 9 оа 2\Array.cpp(72): warning C4715: Array::operator--: значение возвращается не при всех путях выполнения
+C:\Users\Кристина\source\repos\лр 9 оа 2\лр 9 оа 2\Array.cpp(40): warning C4715: Array::operator[]: значение возвращается не при всех путях выполнения
+  лр 9 оа 2.vcxproj -> C:\Users\Кристина\source\repos\лр 9 оа 2\x64\Debug\лр 9 оа 2.exe
